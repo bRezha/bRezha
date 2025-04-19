@@ -1,6 +1,6 @@
 ##  👋 About Me
 
-Hi, I'm bRezha, a beginner Web Developer on a journey to master web development.
+Hi, I'm Rezha Bayu, a beginner Web Developer on a journey to master web development.
 
 I'm currently learning HTML, CSS, and JavaScript fundamentals with The Odin Project. My ambition is to become a skilled Full Stack Developer within the next 2 years.
 
